@@ -1,4 +1,4 @@
-# хеш-таблица
+//  хеш-таблица
 
 public class HashTable<K, V> {
     private static final double load_size = 0.75;

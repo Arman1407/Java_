@@ -1,4 +1,4 @@
-# Двоичное дерево
+//  Двоичное дерево
 
 import java.util.ArrayList;
 import java.util.List;
@@ -116,16 +116,6 @@ public class BinaryTree<T extends Comparable<T>> {
     }
 
     enum Color {red, black}
-
-
-
-
-
-
-
-
-
-
 
 
     private class PrintNode {
