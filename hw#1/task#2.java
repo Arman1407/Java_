@@ -1,4 +1,4 @@
-package hw#2;
+package hw#1;
 
 /**
  * task2
